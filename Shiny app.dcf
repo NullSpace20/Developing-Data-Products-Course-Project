@@ -1,0 +1,12 @@
+name: Data_Product_Courserad
+title: Data_Product_Courserad
+username:
+account: msamy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 626960
+bundleId: 1796979
+url: https://msamy.shinyapps.io/Data_Product_Courserad/
+when: 1546621898.0169
+asMultiple: FALSE
+asStatic: FALSE
